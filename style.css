@@ -489,6 +489,7 @@ div.vertical-line{
     background-color: #2d2a29;
     color: #fff;
     padding: 24px 0;
+    font-size: 11px;
 }
 @media (max-width: 1200px) {
     .customer-reviews h1 {
