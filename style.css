@@ -1,9 +1,9 @@
 body{
-    font-family: 'aeonik_pro_trialregular', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .hero {
-    background-image: linear-gradient(180deg, rgba(0,0,0,.64), rgba(0,0,0,0)), url('/img/heroimg2.jpg');
+    background-image: linear-gradient(180deg, rgba(0,0,0,.64), rgba(0,0,0,0)), url('/Homepage/img/heroimg2.jpg');
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body{
 }
 
 .hero .hero-content h1 {
-    font-family: 'aeonik_pro_trialregular', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
@@ -298,7 +298,7 @@ div.vertical-line{
     color: #FFFFFF;
     text-align: center;
     z-index: -1;
-    background-image: url(/img/heroimg1.jpg);
+    background-image: url(/Homepage/img/heroimg1.jpg);
     background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat;
